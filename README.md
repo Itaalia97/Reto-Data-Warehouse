@@ -2,18 +2,18 @@
 ![](https://github.com/Ivan-Cepeda/Reto-Data-Warehouse/blob/main/src/67-675661_data-warehouse-icon-png.png)
 Ha llegado una propuesta de trabajo, el Ministerio de Cultura, de la ciudad de Buenos Aires tiene pensado iniciar una reforma a la actividad cultural de la ciudad, necesitan reinventarse para organizar, promover y financiar nuevas actividad, que marque la diferencia de la administración anterior. 
 
-Antes de tomar decisiones es importante revisar las actividades que se han venido haciendo, piden al equipo de Data Cultura que los apoye con esta misión. Pero se han percatado que la base de datos fue borrada durante la transición administrativa, solo apareció en una memoria extraíble unos archivos “.csv”, que pueden contener alguna información importante. Este suceso provocó la destitución de los empleados en esa sección. El nuevo ministro de cultura lo ha designado a usted, entre cientos de perfiles. Le han dado una vital oportunidad para mostrar sus habilidades, pero solo cuenta con tu primer contrato de trabajo, [unos cuantos datos](Data) y 4 días para realizar este proyecto.
+Antes de tomar decisiones, es importante revisar las actividades que se han venido haciendo. Piden al equipo de Data Cultura que los apoye con esta misión, pero se han percatado que la base de datos fue borrada durante la transición administrativa, solo apareció en una memoria extraíble unos archivos “.csv”, que pueden contener alguna información importante. Este suceso provocó la destitución de los empleados en esa sección. El nuevo ministro de cultura lo ha designado a usted, entre cientos de perfiles. Le han dado una vital oportunidad para mostrar sus habilidades, pero solo cuentas con tu primer contrato de trabajo, [unos cuantos datos](Data) y 4 días para realizar este proyecto.
 
 ## **Descripción de la tarea**
 
-- Levantar un data warehouse, con los datos disponibles, para ellos deberá realizar las siguientes acciones.
+### Levantar un Data Warehouse, con los datos disponibles, para ellos deberá realizar las siguientes acciones:
 - Diseñar la arquitectura de una base de datos a partir de la información que dispone.
 - Crear la Base de datos y cargar toda la información en ella.
 - Realizar las transformaciones y normalizaciones de las tablas.
 
 ## Complemento Obligatorio
 
-Una base de datos no ayuda directamente a la toma de decisión, los responsables de la reforma no sabrán como acceder a la información por lo que deberá facilitarles un poco ese tema.
+Una base de datos no ayuda directamente a la toma de decisión, los responsables de la reforma no sabrán como acceder a la información, por lo que deberá facilitarles un poco ese tema.
 
 1. Cree un diagrama entidad relación y un diccionario de datos, bien explicado.
 2. Clasifique la información. La planificación se hace Trimestral, semestral y anual.  
@@ -29,7 +29,7 @@ Una base de datos no ayuda directamente a la toma de decisión, los responsables
 
 ## **Entregable**
 
-Recuerde que esta es su oportunidad de brillar y mostrar lo que vale. 
+Recuerde que esta es su oportunidad de brillar y mostrar sus habilidades. 
 
 Deberá crear un repositorio entre 2 o 3 colaboradores. El readme debe estar redactado en primera persona, deberán estar debidamente identificados con su correo y dirección a su linkedin. Describe como abordaron cada etapa, mostrar los resultados y agregar captura de las consultas. Si puede agregar los documentos SQL al repositorio debidamente comentados es mejor. 
 
